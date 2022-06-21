@@ -6,7 +6,7 @@
 # apt-cache madison kubeadm | grep 1.21
 
 # K8S_VERSION=1.22.2-00
-K8S_VERSION=1.21.5-00
+K8S_VERSION=1.23.7-00
 
 # Disable swap
 swapoff -a
